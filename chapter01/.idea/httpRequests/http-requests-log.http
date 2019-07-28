@@ -1,0 +1,22 @@
+GET https://www.baidu.com
+
+<> 2019-07-25T070706.200.html
+
+###
+
+GET http://"https:www.baidu.com"
+
+###
+
+GET http://"https
+
+###
+
+GET http://"www.baidu.com"
+
+###
+
+GET http://"http:\\www.baidu.com"
+
+###
+

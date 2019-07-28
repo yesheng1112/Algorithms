@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="323253e4-fd69-4872-a00d-084ad8df7b92" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="HTTP Request" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <toolWindowEditorPreview>false</toolWindowEditorPreview>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sqrt</find>
+      <find>num</find>
+      <find>deno</find>
+      <find>book3.</find>
+      <find>ex3.Stack.</find>
+      <find>T</find>
+    </findStrings>
+  </component>
+  <component name="ProjectId" id="1OThIhdbu7yLqKWcKYgWEEIbSx2" />
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="Math&#9;PSI&#9;JAVA://jdk.nashorn.internal.objects.Global#math" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="C:/Program Files/Java/jdk1.8.0_131/bin/javap.exe" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="homework5" />
+      <recent name="book5" />
+      <recent name="homework3" />
+      <recent name="book3" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Study\IdeaProject\algorithm\chapter01\lib" />
+      <recent name="D:\Study\IdeaProject\algorithm\chapter01\src" />
+      <recent name="I:\idea\algorithm\chapter01\src" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="https://www.baidu.com" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ex26">
+    <configuration name="ex22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework5.ex22" />
+      <module name="chapter01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework5.ex23" />
+      <module name="chapter01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework5.ex24" />
+      <module name="chapter01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework5.ex25" />
+      <module name="chapter01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework5.ex26" />
+      <module name="chapter01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ex22" />
+      <item itemvalue="Application.ex23" />
+      <item itemvalue="Application.ex24" />
+      <item itemvalue="Application.ex25" />
+      <item itemvalue="Application.ex26" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ex26" />
+        <item itemvalue="Application.ex25" />
+        <item itemvalue="Application.ex24" />
+        <item itemvalue="Application.ex23" />
+        <item itemvalue="Application.ex22" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\YS\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="323253e4-fd69-4872-a00d-084ad8df7b92" name="Default" comment="" />
+      <created>1530443580535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530443580535</updated>
+      <workItem from="1530443584605" duration="1614000" />
+      <workItem from="1530486926050" duration="693000" />
+      <workItem from="1530607025243" duration="3265000" />
+      <workItem from="1530658319402" duration="281000" />
+      <workItem from="1561767155920" duration="22537000" />
+      <workItem from="1561850068805" duration="20365000" />
+      <workItem from="1562022060090" duration="23292000" />
+      <workItem from="1562110926418" duration="110000" />
+      <workItem from="1562111067057" duration="21999000" />
+      <workItem from="1562193931504" duration="18085000" />
+      <workItem from="1562241260277" duration="1626000" />
+      <workItem from="1562283884583" duration="11540000" />
+      <workItem from="1562371383709" duration="14281000" />
+      <workItem from="1562542505653" duration="42000" />
+      <workItem from="1562542581525" duration="16166000" />
+      <workItem from="1562800608742" duration="59000" />
+      <workItem from="1562800695212" duration="7187000" />
+      <workItem from="1562807979479" duration="14171000" />
+      <workItem from="1562887045397" duration="13000" />
+      <workItem from="1562887085894" duration="17762000" />
+      <workItem from="1562921267222" duration="735000" />
+      <workItem from="1562922180342" duration="1337000" />
+      <workItem from="1562931104605" duration="205000" />
+      <workItem from="1562931337890" duration="367000" />
+      <workItem from="1562931717797" duration="265000" />
+      <workItem from="1562932011208" duration="12000" />
+      <workItem from="1562975785038" duration="471000" />
+      <workItem from="1562976286043" duration="20321000" />
+      <workItem from="1563060999932" duration="5300000" />
+      <workItem from="1563084496298" duration="169000" />
+      <workItem from="1563084696288" duration="6661000" />
+      <workItem from="1563146101843" duration="20422000" />
+      <workItem from="1563180215075" duration="610000" />
+      <workItem from="1563231910459" duration="22000" />
+      <workItem from="1563231959501" duration="3001000" />
+      <workItem from="1563319392479" duration="5919000" />
+      <workItem from="1563325486228" duration="160000" />
+      <workItem from="1563325679495" duration="6815000" />
+      <workItem from="1563577804495" duration="17403000" />
+      <workItem from="1563665748413" duration="3763000" />
+      <workItem from="1563671412708" duration="13402000" />
+      <workItem from="1563750951265" duration="6641000" />
+      <workItem from="1563773648196" duration="12678000" />
+      <workItem from="1563836135033" duration="18000" />
+      <workItem from="1563836179569" duration="10653000" />
+      <workItem from="1563866710872" duration="4908000" />
+      <workItem from="1563923310382" duration="6771000" />
+      <workItem from="1564007424263" duration="54000" />
+      <workItem from="1564007504936" duration="169000" />
+      <workItem from="1564009434921" duration="8285000" />
+      <workItem from="1564038125714" duration="7464000" />
+      <workItem from="1564094950690" duration="2270000" />
+      <workItem from="1564182820545" duration="7367000" />
+      <workItem from="1564190731144" duration="9189000" />
+      <workItem from="1564266702744" duration="13165000" />
+      <workItem from="1564281289944" duration="9486000" />
+      <workItem from="1564353805910" duration="3458000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework4/ex8.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework4/ex10.java</url>
+          <line>116</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework4/ex15.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
